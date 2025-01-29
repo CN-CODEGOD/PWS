@@ -16,11 +16,17 @@ controling three of the audio
 
 ## connection
 在soundpad添加在potplayer 播放
+
 在potplayer添加在soundpad播放
+
 在soundpad添加在WallpaperEngine 播放
+
 在potplayer添加在WallpaperEngine播放
+
 在WallpaperEngine添加在soundpad播放
+
 在WallpaperEngine添加在Potplayer播放
+
 
 
 ## cracked feature
